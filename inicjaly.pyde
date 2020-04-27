@@ -66,6 +66,7 @@ def keyemitted():
         pressedKey = 0
  
  # ciekawe, oryginalne rozwiązanie; dało się znacznie prościej
- # chyba coś domieszałeś z referencji javy, zzwróć uwagę, żeby były pythonowe i włączony mode do pythona w processingu
+ # chyba coś domieszałeś z referencji javy, zwróć uwagę, żeby były pythonowe i włączony mode do pythona w processingu
  # niestety się miesza, bo jest nie do końca przemyślane i przy przeskoczeniu na literę nie ma możliwości 'odznaczenia' i co więcej wtedy za najechanie na jedną podświetla się ta druga - też zamienia
  # 1,5p
+ # po za nazwamizmiennych nawet kolory z Kockomacie identyczne, jeśli to się powtórzy nie zaliczę zadania
